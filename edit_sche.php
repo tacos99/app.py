@@ -1,1 +1,0 @@
-<?php include_once("edit_sche.cgi"); ?>
